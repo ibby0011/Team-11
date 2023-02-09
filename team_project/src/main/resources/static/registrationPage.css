@@ -1,0 +1,28 @@
+* { margin: 0; padding : 0; }
+
+h1{
+    text-align: center;
+    margin: center;
+}
+
+/* CSS code for text for input boxes on registration page. */
+.p1{
+    text-align: center;
+    margin: center;
+}
+
+/* CSS code for header on registration page. */
+.header{
+    position: relative;
+    width: 100%;
+    height: 75px;
+    text-align: center;
+    margin: auto;
+    background: pink;
+    color: purple;
+}
+
+.text{
+    text-align: center;
+    padding-top: 30px;
+}
